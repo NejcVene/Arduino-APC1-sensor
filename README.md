@@ -53,6 +53,7 @@
       DB7 to digital pin 10
     </li>
   </ul>
+  To changed them, you have to edit APC1.h (for sensor) or APC1.cpp (for LCD).
 </p>
 
 <h3>
