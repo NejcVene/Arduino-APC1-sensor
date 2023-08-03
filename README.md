@@ -69,7 +69,7 @@
   Notes
 </h3>
 <p>
-  The APC1 sensor is made by <a href="https://www.sciosense.com/">ScioSense</a>
+  The APC1 sensor is made by <a href="https://www.sciosense.com/">ScioSense</a>.<br>
   Everything is written as C, not C++. Currently only measurement data can be received (device anwser for commands is not yet
   implemented). Gas sensor values though read and converted are not saved in the struct, neither shown in terminal or LCD.
   The sensor is in passive mode, so to get measurement values, they have to be requested by calling APC1_Get_Data().
